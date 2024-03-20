@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soe Yi Yi Aung</h1>
-<h3 align="center">A passionate web developer and computer science student proficient in HTML, CSS, JavaScript, Bootstrap, Vue, Angular, PHP, and Laravel. I focus on creating user-friendly websites and applications, staying updated with the latest trends.</h3>
+<h3 align="center">A passionate web developer proficient in HTML, CSS, JavaScript, Bootstrap, Vue, Angular, PHP, and Laravel. I focus on creating user-friendly websites and applications, staying updated with the latest trends.</h3>
 
 - 📫 How to reach me **syya133@gmail.com**
 
