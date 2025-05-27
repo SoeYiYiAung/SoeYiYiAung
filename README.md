@@ -18,7 +18,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24"/> CSS &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="24"/> Bootstrap &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> JavaScript &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="24"/> jQuery &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24"/> &nbsp;&nbsp;TypeScript
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="24"/> Vue.js &nbsp;&nbsp;
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="24"/> Angular
 
@@ -31,7 +31,7 @@
 🧪 Postman &nbsp;&nbsp;
 🧼 SoapUI &nbsp;&nbsp;
 📄 Swagger &nbsp;&nbsp;
-⚙️ Fetch API, Angular, Vue
+⚙️ Fetch API, Angular
 
 **Database:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="24"/> MySQL &nbsp;&nbsp;
