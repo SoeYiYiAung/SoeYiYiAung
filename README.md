@@ -29,9 +29,8 @@
 **API Integration:**  
 🔌 REST APIs &nbsp;&nbsp;
 🧪 Postman &nbsp;&nbsp;
-🧼 SoapUI &nbsp;&nbsp;
 📄 Swagger &nbsp;&nbsp;
-⚙️ Fetch API, Angular
+⚙️ Fetch API
 
 **Database:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="24"/> MySQL &nbsp;&nbsp;
