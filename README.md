@@ -23,7 +23,7 @@
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="24"/> Angular
 
 **Backend:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="24"/> PHP (OOP, MVC) &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="24"/> PHP &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="24"/> Laravel
 
 **API Integration:**  
